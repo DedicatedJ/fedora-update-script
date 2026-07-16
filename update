@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec "$HOME/scripts/update_script/update-system.sh" "$@"
